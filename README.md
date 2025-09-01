@@ -159,26 +159,6 @@ The dashboard is fully responsive and includes:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🛠️ AI Tools Used in Development
-
-This project was developed with the assistance of AI coding tools:
-
-### Cursor AI
-- **Code Generation**: Assisted in creating React components and implementing Tailwind CSS classes
-- **Architecture Planning**: Helped design the component structure and data flow
-- **Best Practices**: Ensured modern React patterns and clean code structure
-
-### GitHub Copilot
-- **Auto-completion**: Provided intelligent code suggestions throughout development
-- **Documentation**: Assisted in writing comprehensive comments and documentation
-- **Refactoring**: Suggested improvements and optimizations
-
-### Benefits of AI-Assisted Development
-- **Faster Development**: Reduced time spent on boilerplate code
-- **Consistent Patterns**: Ensured uniform coding standards across components
-- **Modern Practices**: Incorporated latest React and Tailwind CSS best practices
-- **Error Prevention**: AI tools helped catch potential issues early
-
 ### AI Integration Strategy
 The project includes clear placeholders and comments where real AI API integration would occur, making it easy to transition from mock data to production AI services.
 
